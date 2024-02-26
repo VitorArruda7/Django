@@ -23,7 +23,7 @@ Projeto com intuito de criar um site completo utilizando a biblioteca Django par
 
 ## ⚙️ Caracteristicas
 
-Site completo com galeria de imagens de nebulosas, descrição com diversas informações sobre nebulosas.
+Site completo com galeria de imagens e descrições de nebulosas, galaxias. Também conta com sistema de busca, filtro, admin do django, banco de dados sqlite e outros mecanismos.
 ---
 
 ### 📦 Instalação
