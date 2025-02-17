@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 
-<br> Projeto Django - Alura Space
+<br> Projeto Django
 </h1>
 <h3>◦ Ferramantas utilizdas.</h3>
 
